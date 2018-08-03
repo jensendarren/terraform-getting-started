@@ -1,6 +1,6 @@
 # Getting started with Terraform
 
-Following along with the [Terraform Getting Started Guide](https://www.terraform.io/intro/getting-started/)
+Following along with the [Terraform Getting Started Guide](https://www.terraform.io/intro/getting-started/install.html)
 
 ## Running Terraform in a local Docker container
 
